@@ -1,0 +1,15 @@
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\bin\Debug\net7.0\Final-work.exe
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\bin\Debug\net7.0\Final-work.deps.json
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\bin\Debug\net7.0\Final-work.runtimeconfig.json
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\bin\Debug\net7.0\Final-work.dll
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\bin\Debug\net7.0\Final-work.pdb
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.csproj.AssemblyReference.cache
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.GeneratedMSBuildEditorConfig.editorconfig
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.AssemblyInfoInputs.cache
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.AssemblyInfo.cs
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.csproj.CoreCompileInputs.cache
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.dll
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\refint\Final-work.dll
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.pdb
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\Final-work.genruntimeconfig.cache
+E:\The_KeFir[4]iK\Учёба\Итоговая работа\Final-work\obj\Debug\net7.0\ref\Final-work.dll
